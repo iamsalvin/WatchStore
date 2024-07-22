@@ -1,0 +1,19 @@
+/* Styles for the body */
+/* Style for list items */
+ul {
+  list-style-type: none; /* Remove the default list bullet */
+  padding: 0; /* Remove default padding */
+  margin: 0; /* Remove default margin */
+}
+
+li {
+  background-color: #f0f0f0; /* Background color */
+  border: 1px solid #ccc; /* Border */
+  padding: 10px; /* Padding around each item */
+  margin-bottom: 5px; /* Margin between items */
+}
+
+/* Hover effect */
+li:hover {
+  background-color: #e0e0e0; /* Change background color on hover */
+}

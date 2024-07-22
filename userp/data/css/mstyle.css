@@ -1,0 +1,32 @@
+
+/* Styles for the Payment button */
+.payment_btn {
+ background-color: deepskyblue;
+  color: black;
+  padding: 2.5px 10px;
+  border: none;
+  text-decoration: none;
+  border-radius: 20px; /* Increase the border-radius to make it more rounded */
+  display: inline-block;
+}
+
+/* Styles for the Reject button */
+.reject_btn {
+  background-color: red;
+  color: white;
+  padding: 5px 10px;
+  border: none;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+/* Styles for the Reschedule ghost button */
+.reschedule_btn {
+  background-color: indianred;
+  color: black; /* Change the text color to black */
+  padding: 5px 10px;
+  border: none;
+  text-decoration: none;
+  border-radius: 20px; /* Increase the border-radius to make it more rounded */
+  display: inline-block; /* Display as inline-block to adjust button width */
+}
